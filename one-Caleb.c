@@ -18,7 +18,7 @@ void gcd()
         {
             divisorOne = i;
         }
-        for (j=1    ; j<b; j++)
+        for (j=1; j<b; j++)
         {
             if ((b%j) == 0)
             {
